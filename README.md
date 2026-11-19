@@ -1,67 +1,108 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Dhruv Chaudhary - Software & AI Engineer" />
+  <img src="./assets/banner.svg" width="100%" alt="Dhruv Chaudhary - Software &amp; AI Engineer" />
 </p>
 
-### About
-
-I am a software engineer focused on **autonomous multi-agent systems, backend engineering, and predictive machine learning**. My work centers on pairing agentic workflows with deterministic systems—combining LLM orchestration with sandboxed code execution, rigorous statistical baselines, and robust API design.
-
-- **Focus**: Multi-agent architectures (supervisor-worker loops, shadow critics, state machines), distributed web backends, and ML pipelines.
-- **Background**: Hands-on full-stack development with Next.js 15 and FastAPI, time-series forecasting, and smart contract development with Foundry.
-- **Availability**: Open to Software Engineering and AI/ML opportunities.
+- 🤖 Architecting **Autonomous Multi-Agent Systems** with supervisor-worker patterns, shadow critique loops, and DAG skill graphs
+- ⚡ Building production web services with **Next.js 15 (App Router)**, **FastAPI**, and **PostgreSQL**
+- 📊 Training & benchmarking **predictive ML models** (XGBoost $R^2 = 0.939$, LightGBM, SARIMAX) against ruthless real-world baselines
+- 🛡️ Writing gas-optimized, privacy-preserving smart contracts in **Solidity** tested with **Foundry**
+- 🎯 Current Flagship: **[Placement Mentor](https://github.com/rudecat01/placement-mentor)** — Multi-agent career platform with Judge0 code sandboxing & ElevenLabs voice simulation
 
 ---
 
-### Featured Work
+### 🚀 Featured Engineering Projects
 
-#### [Placement Mentor](https://github.com/rudecat01/placement-mentor)
-*Autonomous multi-agent platform for interview preparation & career roadmapping*  
-`Next.js 15` &bull; `FastAPI` &bull; `Gemini 2.5` &bull; `Judge0 CE` &bull; `ElevenLabs` &bull; `PostgreSQL`
-
-- Architected a multi-agent supervisor system coordinating 5 specialized subagents (Roadmap Planner, Shadow Critic, Panel Interviewer, Coaching Guide, Resume Doctor).
-- Integrated remote code execution via a Judge0 CE sandbox for real-time code evaluation against automated test suites.
-- Built a Bayesian Knowledge Tracing (BKT) engine and DAG skill-graph solver to dynamically rebalance study loads based on demonstrated topic mastery.
-- Added live voice mock interviews with neural text-to-speech (ElevenLabs) and real-time transcript streaming.
-
-#### [Retail Demand & Customer Insight Engine](https://github.com/rudecat01/Retail-insight-engine)
-*End-to-end data analytics, demand forecasting, and Voice-of-Customer pipeline*  
-`Python` &bull; `SQL` &bull; `LightGBM` &bull; `SARIMAX` &bull; `Prophet` &bull; `NLP`
-
-- Ingested and structured 913,000+ daily sales records across 10 store locations into an analytical SQL schema.
-- Benchmarked SARIMAX, Prophet, and LightGBM models against a naive rolling baseline to quantify real forecast lift.
-- Mined customer reviews using unsupervised clustering and sentiment analysis to extract thematic Voice-of-Customer (VOC) insights.
-
-#### [KrishiAI](https://github.com/rudecat01/KrishAI)
-*Precision agriculture yield and revenue prediction engine*  
-`Python` &bull; `XGBoost` &bull; `Flask` &bull; `Scikit-learn` &bull; `Pandas`
-
-- Predicts crop yield and expected revenue by analyzing N-P-K soil chemistry, regional climate data, and market price volatility.
-- Trained an optimized XGBoost regressor achieving an $R^2$ of **0.939**, served via a lightweight Flask API with sub-100ms response times.
-
-#### [Tourist Safety Registry](https://github.com/rudecat01/Tourist_safety_system_rude)
-*Decentralized identity verification and emergency incident response registry*  
-`Solidity` &bull; `Foundry` &bull; `Ethereum / EVM` &bull; `JavaScript`
-
-- Developed smart contracts on Solidity `^0.8.20` using Foundry for gas profiling, unit testing, and invariant verification.
-- Cryptographically hashes identity records (Aadhaar/Passport) on-chain to verify traveler authenticity without storing plaintext PII.
-- Emits real-time on-chain events for incident reporting and authority dashboard monitoring.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎯 <a href="https://github.com/rudecat01/placement-mentor">Placement Mentor</a></h4>
+      <p><em>Autonomous Multi-Agent Career &amp; Interview Simulation Platform</em></p>
+      <ul>
+        <li><strong>Supervisor Orchestration</strong>: Central agent directs 5 specialized subagents (Roadmap Planner, Shadow Critic, Panel Interviewer, Coaching Guide, Resume Doctor).</li>
+        <li><strong>Deterministic Code Sandbox</strong>: Dispatches code solutions to an isolated <strong>Judge0 CE</strong> runtime for live execution and test grading.</li>
+        <li><strong>Skill DAG &amp; Mastery</strong>: Implements a <strong>Bayesian Knowledge Tracing (BKT)</strong> engine to calculate preparation load and dynamically adapt study roadmaps.</li>
+        <li><strong>Neural Voice Interviews</strong>: Real-time mock technical interviews powered by ElevenLabs text-to-speech and dynamic transcript analysis.</li>
+      </ul>
+      <p>
+        <code>Gemini 2.5</code> &bull; <code>Next.js 15</code> &bull; <code>FastAPI</code> &bull; <code>PostgreSQL</code> &bull; <code>ElevenLabs</code> &bull; <code>Judge0</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 <a href="https://github.com/rudecat01/Retail-insight-engine">Retail Demand &amp; VOC Engine</a></h4>
+      <p><em>End-to-End Data Pipeline, Demand Forecasting &amp; Customer Analytics</em></p>
+      <ul>
+        <li><strong>Large-Scale Ingestion</strong>: Processed <strong>913,000+ daily sales records</strong> across 10 stores and 50 products into structured SQL analytical schemas.</li>
+        <li><strong>Honest Model Comparison</strong>: Evaluated LightGBM, SARIMAX, and Prophet directly against naive rolling averages to measure real forecasting lift.</li>
+        <li><strong>Voice of Customer (VOC)</strong>: Unsupervised review clustering, sentiment scoring, and thematic issue extraction from customer feedback streams.</li>
+      </ul>
+      <p>
+        <code>Python</code> &bull; <code>LightGBM</code> &bull; <code>SARIMAX</code> &bull; <code>Prophet</code> &bull; <code>SQL</code> &bull; <code>NLP Sentiment</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌾 <a href="https://github.com/rudecat01/KrishAI">KrishiAI Precision Engine</a></h4>
+      <p><em>Precision Agriculture Yield &amp; Potential Revenue Prediction</em></p>
+      <ul>
+        <li><strong>Multivariate Input Analysis</strong>: Ingests soil chemical metrics (N-P-K), regional climate factors, and historical market volatility.</li>
+        <li><strong>High-Precision Inference</strong>: Optimized <strong>XGBoost Regressor</strong> achieving an <strong>$R^2$ of 0.939</strong> across varied crop varieties.</li>
+        <li><strong>Sub-100ms API</strong>: Lightweight Flask microservice with pre-computed regional caches for instant client dashboard evaluation.</li>
+      </ul>
+      <p>
+        <code>Python</code> &bull; <code>XGBoost</code> &bull; <code>Scikit-learn</code> &bull; <code>Flask</code> &bull; <code>Pandas</code> &bull; <code>NumPy</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/rudecat01/Tourist_safety_system_rude">Tourist Safety Registry</a></h4>
+      <p><em>Decentralized Identity Verification &amp; Incident Dispatch</em></p>
+      <ul>
+        <li><strong>Zero PII Leakage</strong>: Cryptographically hashes traveler identification (Aadhaar / Passport) onto the EVM to prevent plaintext data exposure.</li>
+        <li><strong>Foundry Test Harness</strong>: Comprehensive unit and invariant test coverage with gas-optimized Solidity <code>^0.8.20</code> compilation.</li>
+        <li><strong>Event-Driven Alerts</strong>: Instant emergency beacon emission via indexed contract events connected to a live surveillance dashboard.</li>
+      </ul>
+      <p>
+        <code>Solidity</code> &bull; <code>Foundry (Forge/Cast)</code> &bull; <code>Ethereum / EVM</code> &bull; <code>JavaScript</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Technical Skills
+### 🛠️ Technical Stack
 
-| Domain | Stack |
+| Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, SQL, Solidity, C++ |
-| **AI & Multi-Agent** | Google Gemini API, Multi-Agent Supervisors, Judge0 Remote Sandbox, ElevenLabs Neural TTS, Prompt Engineering |
-| **Backend & Systems** | FastAPI, Next.js 15 (App Router), React, Node.js, Flask, Pydantic, PostgreSQL, SQLite, Tailwind CSS |
-| **Data & Machine Learning** | XGBoost, LightGBM, Scikit-learn, Pandas, NumPy, Prophet, SARIMAX, NLP Sentiment Analysis |
-| **Tools & Infrastructure** | Foundry (Forge/Cast), Git, Docker, Linux / Bash, REST APIs, Monaco Editor |
+| **Languages** | `Python` &bull; `TypeScript` &bull; `JavaScript` &bull; `SQL` &bull; `Solidity` &bull; `C++` |
+| **AI & Multi-Agent** | `Google Gemini API` &bull; `Supervisor-Worker Loops` &bull; `Shadow Critics` &bull; `Judge0 Remote Sandboxing` &bull; `ElevenLabs Neural TTS` &bull; `Bayesian Knowledge Tracing` |
+| **Backend & Web** | `Next.js 15 (App Router)` &bull; `FastAPI` &bull; `React` &bull; `Node.js` &bull; `Flask` &bull; `Pydantic` &bull; `PostgreSQL` &bull; `Tailwind CSS` &bull; `Monaco Editor` |
+| **Data & Machine Learning** | `XGBoost` &bull; `LightGBM` &bull; `Scikit-learn` &bull; `Pandas` &bull; `NumPy` &bull; `Prophet` &bull; `SARIMAX` &bull; `NLP & Sentiment Mining` |
+| **Tools & Infrastructure** | `Foundry (Forge, Cast, Anvil)` &bull; `Git & GitHub Actions` &bull; `Docker` &bull; `Linux / Bash` &bull; `REST APIs` &bull; `Postman` |
 
 ---
 
-### Contact
+### 📊 Activity & Metrics
 
-- **Email**: [dhruvchaudhary13978@gmail.com](mailto:dhruvchaudhary13978@gmail.com)
-- **GitHub**: [@rudecat01](https://github.com/rudecat01)
-- **LinkedIn**: [linkedin.com/in/dhruv-chaudhary](https://www.linkedin.com) *(Update with your LinkedIn URL)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudecat01&show_icons=true&theme=transparent&bg_color=0a0e17&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&hide_border=false" height="155" alt="Dhruv's GitHub stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudecat01&layout=compact&theme=transparent&bg_color=0a0e17&title_color=38bdf8&text_color=94a3b8&border_color=1e293b&hide_border=false" height="155" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rudecat01&theme=dark&background=0a0e17&stroke=1e293b&ring=38bdf8&fire=818cf8&currStreakLabel=f8fafc&sideLabels=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc&dates=94a3b8" alt="Dhruv's Streak" />
+</p>
+
+---
+
+### 📬 Connect
+
+- 📧 **Email**: [dhruvchaudhary13978@gmail.com](mailto:dhruvchaudhary13978@gmail.com)
+- 🐙 **GitHub**: [@rudecat01](https://github.com/rudecat01)
+- 💼 **LinkedIn**: [linkedin.com/in/dhruv-chaudhary](https://www.linkedin.com) *(Update with your LinkedIn URL)*
+
+<br/>
+<p align="center">
+  <sub>Built with precision &bull; Focus on real engineering &bull; &copy; Dhruv Chaudhary</sub>
+</p>
