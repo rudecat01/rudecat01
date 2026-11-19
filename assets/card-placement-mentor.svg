@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 250" width="600" height="250" role="img" aria-label="Placement Mentor: Supervisor agent coordinates five specialist subagents for voice mock interviews, dynamic DAG skill solving, and automated resume diagnostics.">
+<title>Placement Mentor</title>
+<defs><clipPath id="c-placement-mentor"><rect width="600" height="250" rx="12"/></clipPath></defs>
+<g clip-path="url(#c-placement-mentor)">
+  <rect width="600" height="250" fill="#0F1E33"/>
+  <rect x="0" y="0" width="6" height="250" fill="#3FD0C9"/>
+</g>
+<g transform="translate(24,34)"><g stroke="#2E4A73" stroke-width="1.6" fill="none"><path d="M32,70 L75,30"/><path d="M32,70 L120,48"/><path d="M32,70 L120,92"/><path d="M32,70 L75,110"/><path d="M75,30 L120,48 L120,92 L75,110"/></g><circle cx="32" cy="70" r="10" fill="#3FD0C9"/><circle cx="32" cy="70" r="14" fill="none" stroke="#3FD0C9" stroke-opacity="0.4"/><circle cx="75" cy="30" r="6" fill="#FFFFFF"/><circle cx="120" cy="48" r="6" fill="#2E4A73"/><circle cx="120" cy="92" r="6" fill="#2E4A73"/><circle cx="75" cy="110" r="6" fill="#2E4A73"/></g>
+<text x="196" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#F2F5F9">Placement Mentor</text>
+<rect x="44.3" y="208" width="103.4" height="24" rx="12" fill="none" stroke="#3FD0C9" stroke-width="1.2"/>
+<text x="96" y="224.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#3FD0C9" text-anchor="middle">Live System</text>
+<text x="196" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#F2F5F9">Supervisor agent coordinates five specialist</text><text x="196" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#F2F5F9">subagents for voice mock interviews, dynamic DAG</text><text x="196" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#F2F5F9">skill solving, and automated resume diagnostics.</text>
+<text x="196" y="167" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#3FD0C9">Judge0 sandbox execution + Bayesian Knowledge Tracing</text>
+<line x1="196" y1="206" x2="580" y2="206" stroke="#22385A"/>
+<text x="196" y="230" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8FA3BF">Gemini 2.5 / Next.js 15 / FastAPI / ElevenLabs / PostgreSQL</text>
+</svg>

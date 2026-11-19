@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 250" width="600" height="250" role="img" aria-label="Retail Demand &amp; VOC Engine: End-to-end data pipeline over 913,000+ transaction records. Benchmarks SARIMAX, Prophet, and LightGBM with customer review sentiment mining.">
+<title>Retail Demand &amp; VOC Engine</title>
+<defs><clipPath id="c-retail-insight"><rect width="600" height="250" rx="12"/></clipPath></defs>
+<g clip-path="url(#c-retail-insight)">
+  <rect width="600" height="250" fill="#0F1E33"/>
+  <rect x="0" y="0" width="6" height="250" fill="#FFB020"/>
+</g>
+<g transform="translate(24,34)"><g stroke="#2E4A73" stroke-width="1" fill="none"><line x1="20" y1="20" x2="20" y2="120"/><line x1="40" y1="20" x2="40" y2="120"/><line x1="60" y1="20" x2="60" y2="120"/><line x1="80" y1="20" x2="80" y2="120"/><line x1="100" y1="20" x2="100" y2="120"/><line x1="120" y1="20" x2="120" y2="120"/><line x1="20" y1="30" x2="140" y2="30"/><line x1="20" y1="55" x2="140" y2="55"/><line x1="20" y1="80" x2="140" y2="80"/><line x1="20" y1="105" x2="140" y2="105"/></g><path d="M22,100 Q45,70 70,85 T110,50 T138,40" stroke="#2E4A73" stroke-width="2" fill="none" stroke-dasharray="3 3"/><path d="M22,95 Q48,60 74,78 T112,42 T138,32" stroke="#FFB020" stroke-width="2.6" fill="none" stroke-linecap="round"/><circle cx="138" cy="32" r="4.5" fill="#FFFFFF"/></g>
+<text x="196" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#F2F5F9">Retail Demand &amp; VOC Engine</text>
+<rect x="59.099999999999994" y="208" width="73.80000000000001" height="24" rx="12" fill="none" stroke="#FFB020" stroke-width="1.2"/>
+<text x="96" y="224.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#FFB020" text-anchor="middle">Shipped</text>
+<text x="196" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#F2F5F9">End-to-end data pipeline over 913,000+</text><text x="196" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#F2F5F9">transaction records. Benchmarks SARIMAX,</text><text x="196" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#F2F5F9">Prophet, and LightGBM with customer review</text><text x="196" y="157" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#F2F5F9">sentiment mining.</text>
+<text x="196" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFB020">913k Kaggle rows across 10 stores &amp; 50 items • SQL analytics</text>
+<line x1="196" y1="206" x2="580" y2="206" stroke="#22385A"/>
+<text x="196" y="230" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8FA3BF">Python / LightGBM / SARIMAX / Prophet / SQLite / NLP</text>
+</svg>

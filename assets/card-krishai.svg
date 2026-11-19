@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 250" width="600" height="250" role="img" aria-label="KrishiAI Precision Engine: Precision agriculture ML model predicting crop yield and potential revenue from soil chemistry (N-P-K), climate metrics, and historical market volatility.">
+<title>KrishiAI Precision Engine</title>
+<defs><clipPath id="c-krishai"><rect width="600" height="250" rx="12"/></clipPath></defs>
+<g clip-path="url(#c-krishai)">
+  <rect width="600" height="250" fill="#0F1E33"/>
+  <rect x="0" y="0" width="6" height="250" fill="#F0648C"/>
+</g>
+<g transform="translate(24,34)"><g stroke="#2E4A73" stroke-width="1.2" fill="none"><polygon points="78,52 95.1,64.4 88.6,84.6 67.4,84.6 60.9,64.4"/><polygon points="78,36 110.3,59.5 98.1,97.5 57.9,97.5 45.7,59.5"/><polygon points="78,22 123.6,55.1 106.3,108.9 49.7,108.9 32.4,55.1"/></g><polygon points="78,28 116,58 106,105 43,95 50,60" fill="#F0648C" fill-opacity="0.25" stroke="#F0648C" stroke-width="2.2"/><circle cx="78" cy="28" r="3.5" fill="#FFFFFF"/></g>
+<text x="196" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#F2F5F9">KrishiAI Precision Engine</text>
+<rect x="59.099999999999994" y="208" width="73.80000000000001" height="24" rx="12" fill="none" stroke="#F0648C" stroke-width="1.2"/>
+<text x="96" y="224.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#F0648C" text-anchor="middle">Shipped</text>
+<text x="196" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#F2F5F9">Precision agriculture ML model predicting crop</text><text x="196" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#F2F5F9">yield and potential revenue from soil chemistry</text><text x="196" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#F2F5F9">(N-P-K), climate metrics, and historical market</text><text x="196" y="157" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#F2F5F9">volatility.</text>
+<text x="196" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F0648C">Optimized XGBoost Regressor with R² = 0.939 • sub-100ms API</text>
+<line x1="196" y1="206" x2="580" y2="206" stroke="#22385A"/>
+<text x="196" y="230" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8FA3BF">XGBoost / Scikit-learn / Flask / Pandas / NumPy</text>
+</svg>
