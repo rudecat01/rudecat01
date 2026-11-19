@@ -2,20 +2,20 @@
   <img src="./assets/header.svg" width="100%" alt="Dhruv Chaudhary - Software &amp; AI Engineer" />
 </p>
 
-- 🤖 Architecting **Autonomous Multi-Agent Systems** with supervisor-worker loops &bull; <img src="https://img.shields.io/badge/Gemini_2.5-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Judge0_Sandbox-0052CC?style=flat-square" alt="Judge0" />
-- ⚡ Building production web services &bull; <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-- 📊 Training &amp; benchmarking **predictive ML pipelines** &bull; <img src="https://img.shields.io/badge/XGBoost_R²=0.939-EB5424?style=flat-square" alt="XGBoost" /> <img src="https://img.shields.io/badge/LightGBM-FF69B4?style=flat-square" alt="LightGBM" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-- 🛡️ Writing gas-optimized, privacy-preserving smart contracts &bull; <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" /> <img src="https://img.shields.io/badge/Foundry-E535AB?style=flat-square" alt="Foundry" /> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
-- 🎯 Current Flagship: **[Placement Mentor](https://github.com/rudecat01/placement-mentor)** — Multi-agent platform with Judge0 sandboxing &amp; ElevenLabs neural voice
+- Architecting **Autonomous Multi-Agent Systems** with supervisor-worker loops &bull; <img src="https://img.shields.io/badge/Gemini_2.5-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Judge0_Sandbox-0052CC?style=flat-square" alt="Judge0" />
+- Building production web services &bull; <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+- Training &amp; benchmarking **predictive ML pipelines** &bull; <img src="https://img.shields.io/badge/XGBoost_R²=0.939-EB5424?style=flat-square" alt="XGBoost" /> <img src="https://img.shields.io/badge/LightGBM-FF69B4?style=flat-square" alt="LightGBM" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+- Writing gas-optimized, privacy-preserving smart contracts &bull; <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" /> <img src="https://img.shields.io/badge/Foundry-E535AB?style=flat-square" alt="Foundry" /> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
+- Current Flagship: **[Placement Mentor](https://github.com/rudecat01/placement-mentor)** — Multi-agent platform with Judge0 sandboxing &amp; ElevenLabs neural voice
 
 ---
 
-### 🚀 Featured Engineering Projects
+### Featured Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎯 <a href="https://github.com/rudecat01/placement-mentor">Placement Mentor</a></h4>
+      <h4><a href="https://github.com/rudecat01/placement-mentor">Placement Mentor</a></h4>
       <p><em>Autonomous Multi-Agent Career &amp; Interview Simulation Platform</em></p>
       <ul>
         <li><strong>Supervisor Orchestration</strong>: Central agent directs 5 specialized subagents (Roadmap Planner, Shadow Critic, Panel Interviewer, Coaching Guide, Resume Doctor).</li>
@@ -32,7 +32,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/rudecat01/Retail-insight-engine">Retail Demand &amp; VOC Engine</a></h4>
+      <h4><a href="https://github.com/rudecat01/Retail-insight-engine">Retail Demand &amp; VOC Engine</a></h4>
       <p><em>End-to-End Data Pipeline, Demand Forecasting &amp; Customer Analytics</em></p>
       <ul>
         <li><strong>Large-Scale Ingestion</strong>: Processed <strong>913,000+ daily sales records</strong> across 10 stores and 50 products into structured SQL analytical schemas.</li>
@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌾 <a href="https://github.com/rudecat01/KrishAI">KrishiAI Precision Engine</a></h4>
+      <h4><a href="https://github.com/rudecat01/KrishAI">KrishiAI Precision Engine</a></h4>
       <p><em>Precision Agriculture Yield &amp; Potential Revenue Prediction</em></p>
       <ul>
         <li><strong>Multivariate Input Analysis</strong>: Ingests soil chemical metrics (N-P-K), regional climate factors, and historical market volatility.</li>
@@ -66,7 +66,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/rudecat01/Tourist_safety_system_rude">Tourist Safety Registry</a></h4>
+      <h4><a href="https://github.com/rudecat01/Tourist_safety_system_rude">Tourist Safety Registry</a></h4>
       <p><em>Decentralized Identity Verification &amp; Incident Dispatch</em></p>
       <ul>
         <li><strong>Zero PII Leakage</strong>: Cryptographically hashes traveler identification (Aadhaar / Passport) onto the EVM to prevent plaintext data exposure.</li>
@@ -85,7 +85,7 @@
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,solidity,postgres,fastapi,nextjs,react,tailwind,nodejs,flask,docker,linux,git,postman,sqlite" alt="Tech Stack Icons" />
@@ -101,7 +101,7 @@
 
 ---
 
-### 📊 Activity & Metrics
+### Activity & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudecat01&show_icons=true&theme=transparent&bg_color=0a0e17&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&hide_border=false" height="155" alt="Dhruv's GitHub stats" />
@@ -119,8 +119,8 @@
 
 ---
 
-### 📬 Connect
+### Connect
 
-- 💼 **LinkedIn**: [linkedin.com/in/dhruv-chaudhary-148b142b9](https://www.linkedin.com/in/dhruv-chaudhary-148b142b9/)
-- ⚡ **LeetCode**: [leetcode.com/u/rudecat01](https://leetcode.com/u/rudecat01/)
-- 📧 **Email**: [dhruvchaudhary13978@gmail.com](mailto:dhruvchaudhary13978@gmail.com)
+- **LinkedIn**: [linkedin.com/in/dhruv-chaudhary-148b142b9](https://www.linkedin.com/in/dhruv-chaudhary-148b142b9/)
+- **LeetCode**: [leetcode.com/u/rudecat01](https://leetcode.com/u/rudecat01/)
+- **Email**: [dhruvchaudhary13978@gmail.com](mailto:dhruvchaudhary13978@gmail.com)
