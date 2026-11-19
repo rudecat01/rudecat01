@@ -95,10 +95,10 @@
     <text x="16" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#f8fafc">cat focus.md</text>
     
     <text x="16" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#cbd5e1">
-      <tspan fill="#818cf8" font-weight="600">Software &amp; AI Engineer</tspan> &bull; Autonomous Multi-Agent Systems &amp; Production Backends
+      <tspan fill="#818cf8" font-weight="600">Software &amp; AI Engineer</tspan> &#8226; Autonomous Multi-Agent Systems &amp; Production Backends
     </text>
     <text x="16" y="41" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" fill="#94a3b8">
-      Building deterministic tools around non-deterministic AI (Supervisor loops &bull; Judge0 sandboxing &bull; XGBoost).
+      Building deterministic tools around non-deterministic AI (Supervisor loops &#8226; Judge0 sandboxing &#8226; XGBoost).
     </text>
   </g>
 
@@ -111,7 +111,7 @@
     <rect x="16" y="12" width="460" height="32" rx="6" fill="#0b1324" stroke="#1e293b" stroke-width="1" />
     <circle cx="32" cy="28" r="4.5" fill="#10b981" class="live-dot" />
     <text x="46" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#e2e8f0">
-      active_pipeline: <tspan fill="#38bdf8">Placement Mentor (MVP)</tspan> &bull; open_to_roles: <tspan fill="#10b981">true</tspan>
+      active_pipeline: <tspan fill="#38bdf8">Placement Mentor (MVP)</tspan> &#8226; open_to_roles: <tspan fill="#10b981">true</tspan>
     </text>
     <rect x="444" y="22" width="7" height="13" fill="#38bdf8" class="cursor" />
   </g>
