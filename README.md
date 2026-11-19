@@ -8,6 +8,10 @@
 - Writing gas-optimized, privacy-preserving smart contracts &bull; <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" /> <img src="https://img.shields.io/badge/Foundry-E535AB?style=flat-square" alt="Foundry" /> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
 - Current Flagship: **[Placement Mentor](https://github.com/rudecat01/placement-mentor)** — Multi-agent platform with Judge0 sandboxing &amp; ElevenLabs neural voice
 
+<p align="center">
+  <img src="./assets/timeline.svg" width="100%" alt="Track Record &amp; Milestones" />
+</p>
+
 ---
 
 ### Featured Engineering Projects
