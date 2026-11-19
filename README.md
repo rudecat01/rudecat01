@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Dhruv Chaudhary - Software &amp; AI Engineer" />
+  <img src="./assets/header.svg" width="100%" alt="Dhruv Chaudhary - Software &amp; AI Engineer" />
 </p>
 
 - 🤖 Architecting **Autonomous Multi-Agent Systems** with supervisor-worker patterns, shadow critique loops, and DAG skill graphs
