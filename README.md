@@ -2,11 +2,11 @@
   <img src="./assets/header.svg" width="100%" alt="Dhruv Chaudhary - Software &amp; AI Engineer" />
 </p>
 
-- 🤖 Architecting **Autonomous Multi-Agent Systems** with supervisor-worker patterns, shadow critique loops, and DAG skill graphs
-- ⚡ Building production web services with **Next.js 15 (App Router)**, **FastAPI**, and **PostgreSQL**
-- 📊 Training & benchmarking **predictive ML models** (XGBoost $R^2 = 0.939$, LightGBM, SARIMAX) against ruthless real-world baselines
-- 🛡️ Writing gas-optimized, privacy-preserving smart contracts in **Solidity** tested with **Foundry**
-- 🎯 Current Flagship: **[Placement Mentor](https://github.com/rudecat01/placement-mentor)** — Multi-agent career platform with Judge0 code sandboxing & ElevenLabs voice simulation
+- 🤖 Architecting **Autonomous Multi-Agent Systems** with supervisor-worker loops &bull; <img src="https://img.shields.io/badge/Gemini_2.5-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Judge0_Sandbox-0052CC?style=flat-square" alt="Judge0" />
+- ⚡ Building production web services &bull; <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+- 📊 Training &amp; benchmarking **predictive ML pipelines** &bull; <img src="https://img.shields.io/badge/XGBoost_R²=0.939-EB5424?style=flat-square" alt="XGBoost" /> <img src="https://img.shields.io/badge/LightGBM-FF69B4?style=flat-square" alt="LightGBM" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+- 🛡️ Writing gas-optimized, privacy-preserving smart contracts &bull; <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" /> <img src="https://img.shields.io/badge/Foundry-E535AB?style=flat-square" alt="Foundry" /> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
+- 🎯 Current Flagship: **[Placement Mentor](https://github.com/rudecat01/placement-mentor)** — Multi-agent platform with Judge0 sandboxing &amp; ElevenLabs neural voice
 
 ---
 
@@ -24,7 +24,11 @@
         <li><strong>Neural Voice Interviews</strong>: Real-time mock technical interviews powered by ElevenLabs text-to-speech and dynamic transcript analysis.</li>
       </ul>
       <p>
-        <code>Gemini 2.5</code> &bull; <code>Next.js 15</code> &bull; <code>FastAPI</code> &bull; <code>PostgreSQL</code> &bull; <code>ElevenLabs</code> &bull; <code>Judge0</code>
+        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 15" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Gemini_2.5-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Judge0-0052CC?style=flat-square" alt="Judge0" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -36,7 +40,11 @@
         <li><strong>Voice of Customer (VOC)</strong>: Unsupervised review clustering, sentiment scoring, and thematic issue extraction from customer feedback streams.</li>
       </ul>
       <p>
-        <code>Python</code> &bull; <code>LightGBM</code> &bull; <code>SARIMAX</code> &bull; <code>Prophet</code> &bull; <code>SQL</code> &bull; <code>NLP Sentiment</code>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/LightGBM-FF69B4?style=flat-square" alt="LightGBM" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       </p>
     </td>
   </tr>
@@ -50,7 +58,11 @@
         <li><strong>Sub-100ms API</strong>: Lightweight Flask microservice with pre-computed regional caches for instant client dashboard evaluation.</li>
       </ul>
       <p>
-        <code>Python</code> &bull; <code>XGBoost</code> &bull; <code>Scikit-learn</code> &bull; <code>Flask</code> &bull; <code>Pandas</code> &bull; <code>NumPy</code>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square" alt="XGBoost" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -62,7 +74,10 @@
         <li><strong>Event-Driven Alerts</strong>: Instant emergency beacon emission via indexed contract events connected to a live surveillance dashboard.</li>
       </ul>
       <p>
-        <code>Solidity</code> &bull; <code>Foundry (Forge/Cast)</code> &bull; <code>Ethereum / EVM</code> &bull; <code>JavaScript</code>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+        <img src="https://img.shields.io/badge/Foundry-E535AB?style=flat-square" alt="Foundry" />
+        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
     </td>
   </tr>
@@ -72,13 +87,17 @@
 
 ### 🛠️ Technical Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,solidity,postgres,fastapi,nextjs,react,tailwind,nodejs,flask,docker,linux,git,postman,sqlite" alt="Tech Stack Icons" />
+</p>
+
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | `Python` &bull; `TypeScript` &bull; `JavaScript` &bull; `SQL` &bull; `Solidity` &bull; `C++` |
-| **AI & Multi-Agent** | `Google Gemini API` &bull; `Supervisor-Worker Loops` &bull; `Shadow Critics` &bull; `Judge0 Remote Sandboxing` &bull; `ElevenLabs Neural TTS` &bull; `Bayesian Knowledge Tracing` |
-| **Backend & Web** | `Next.js 15 (App Router)` &bull; `FastAPI` &bull; `React` &bull; `Node.js` &bull; `Flask` &bull; `Pydantic` &bull; `PostgreSQL` &bull; `Tailwind CSS` &bull; `Monaco Editor` |
-| **Data & Machine Learning** | `XGBoost` &bull; `LightGBM` &bull; `Scikit-learn` &bull; `Pandas` &bull; `NumPy` &bull; `Prophet` &bull; `SARIMAX` &bull; `NLP & Sentiment Mining` |
-| **Tools & Infrastructure** | `Foundry (Forge, Cast, Anvil)` &bull; `Git & GitHub Actions` &bull; `Docker` &bull; `Linux / Bash` &bull; `REST APIs` &bull; `Postman` |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> |
+| **AI &amp; Multi-Agent** | <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/> <img src="https://img.shields.io/badge/Supervisor_Agents-38bdf8?style=flat-square" alt="Supervisors"/> <img src="https://img.shields.io/badge/Judge0_Sandbox-0052CC?style=flat-square" alt="Judge0"/> <img src="https://img.shields.io/badge/ElevenLabs_TTS-000000?style=flat-square" alt="ElevenLabs"/> <img src="https://img.shields.io/badge/BKT_Mastery-10b981?style=flat-square" alt="BKT"/> |
+| **Backend &amp; Web** | <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 15"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/> |
+| **Data &amp; Machine Learning** | <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square" alt="XGBoost"/> <img src="https://img.shields.io/badge/LightGBM-FF69B4?style=flat-square" alt="LightGBM"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Prophet-008080?style=flat-square" alt="Prophet"/> <img src="https://img.shields.io/badge/NLP_Sentiment-8B5CF6?style=flat-square" alt="NLP"/> |
+| **Tools &amp; Infrastructure** | <img src="https://img.shields.io/badge/Foundry-E535AB?style=flat-square" alt="Foundry"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Monaco_Editor-1E1E1E?style=flat-square" alt="Monaco"/> |
 
 ---
 
@@ -94,15 +113,14 @@
   <img src="https://streak-stats.demolab.com/?user=rudecat01&theme=dark&background=0a0e17&stroke=1e293b&ring=38bdf8&fire=818cf8&currStreakLabel=f8fafc&sideLabels=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc&dates=94a3b8" alt="Dhruv's Streak" />
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rudecat01?theme=dark&font=Karma" height="150" alt="Dhruv's LeetCode stats" />
+</p>
+
 ---
 
 ### 📬 Connect
 
+- 💼 **LinkedIn**: [linkedin.com/in/dhruv-chaudhary-148b142b9](https://www.linkedin.com/in/dhruv-chaudhary-148b142b9/)
+- ⚡ **LeetCode**: [leetcode.com/u/rudecat01](https://leetcode.com/u/rudecat01/)
 - 📧 **Email**: [dhruvchaudhary13978@gmail.com](mailto:dhruvchaudhary13978@gmail.com)
-- 🐙 **GitHub**: [@rudecat01](https://github.com/rudecat01)
-- 💼 **LinkedIn**: [linkedin.com/in/dhruv-chaudhary](https://www.linkedin.com) *(Update with your LinkedIn URL)*
-
-<br/>
-<p align="center">
-  <sub>Built with precision &bull; Focus on real engineering &bull; &copy; Dhruv Chaudhary</sub>
-</p>
