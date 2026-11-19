@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 240" width="850" height="240" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c16" />
+      <stop offset="50%" stop-color="#0d1527" />
+      <stop offset="100%" stop-color="#0a101f" />
+    </linearGradient>
+
+    <!-- Accent Gradients -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.25" />
+    </linearGradient>
+
+    <!-- Glow filters -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulseDot {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.9); }
+    }
+    .status-dot {
+      animation: pulseDot 2s infinite ease-in-out;
+      transform-origin: 755px 45px;
+    }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="846" height="236" rx="16" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Subtle Top Border Highlight -->
+  <rect x="2" y="2" width="846" height="3" rx="1.5" fill="url(#textGrad)" />
+
+  <!-- Code/Tech Grid Accent Lines (Subtle) -->
+  <line x1="50" y1="2" x2="50" y2="238" stroke="#334155" stroke-dasharray="3 6" stroke-opacity="0.15" />
+  <line x1="800" y1="2" x2="800" y2="238" stroke="#334155" stroke-dasharray="3 6" stroke-opacity="0.15" />
+
+  <!-- Status Capsule (Top Right) -->
+  <g transform="translate(620, 26)">
+    <rect width="180" height="28" rx="14" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <circle cx="16" cy="14" r="4.5" fill="#10b981" />
+    <circle cx="16" cy="14" r="8" fill="#10b981" fill-opacity="0.2" class="status-dot" />
+    <text x="30" y="18" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500">Available for projects</text>
+  </g>
+
+  <!-- Terminal Symbol / Monogram -->
+  <g transform="translate(48, 40)">
+    <rect width="52" height="52" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.5" />
+    <path d="M18 19 L28 26 L18 33" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+    <line x1="28" y1="33" x2="36" y2="33" stroke="#818cf8" stroke-width="2.5" stroke-linecap="round" />
+  </g>
+
+  <!-- Main Title & Name -->
+  <text x="116" y="62" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.5">Dhruv Chaudhary</text>
+  <text x="325" y="62" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400">(@rudecat01)</text>
+
+  <!-- Subtitle with Gradient -->
+  <text x="116" y="87" fill="url(#textGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" letter-spacing="0.2">Full-Stack AI &amp; Systems Engineer</text>
+
+  <!-- Mission Statement -->
+  <text x="48" y="132" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400">
+    Architecting autonomous multi-agent workflows, production full-stack systems, and predictive ML models.
+  </text>
+  <text x="48" y="154" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="400">
+    Passionate about LLM orchestration, intelligent decision engines, clean backend architectures, and Web3 security.
+  </text>
+
+  <!-- Skill Badges / Highlights -->
+  <g transform="translate(48, 182)">
+    <!-- Badge 1: Multi-Agent Systems -->
+    <g transform="translate(0, 0)">
+      <rect width="168" height="28" rx="6" fill="url(#badgeGrad)" stroke="#38bdf8" stroke-width="0.8" stroke-opacity="0.6" />
+      <text x="12" y="18" fill="#e0f2fe" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">🤖 Multi-Agent Systems</text>
+    </g>
+
+    <!-- Badge 2: Full-Stack & Systems -->
+    <g transform="translate(178, 0)">
+      <rect width="180" height="28" rx="6" fill="url(#badgeGrad)" stroke="#818cf8" stroke-width="0.8" stroke-opacity="0.6" />
+      <text x="12" y="18" fill="#e0e7ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">⚡ Next.js 15 • FastAPI</text>
+    </g>
+
+    <!-- Badge 3: Predictive ML -->
+    <g transform="translate(368, 0)">
+      <rect width="170" height="28" rx="6" fill="url(#badgeGrad)" stroke="#a855f7" stroke-width="0.8" stroke-opacity="0.6" />
+      <text x="12" y="18" fill="#f3e8ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">📊 ML &amp; Demand Models</text>
+    </g>
+
+    <!-- Badge 4: Web3 & Foundry -->
+    <g transform="translate(548, 0)">
+      <rect width="160" height="28" rx="6" fill="url(#badgeGrad)" stroke="#06b6d4" stroke-width="0.8" stroke-opacity="0.6" />
+      <text x="12" y="18" fill="#ecfeff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">⛓️ Solidity &amp; Foundry</text>
+    </g>
+  </g>
+</svg>
